@@ -1,0 +1,12 @@
+# Add files here to ignore them from prettier formatting
+
+/dist
+/coverage
+
+/.nx/cache
+/.helm
+
+create-deployment.yaml
+.gitlab-ci.yml
+.gitlab-js.yml
+/.nx/workspace-data
